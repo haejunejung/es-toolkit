@@ -221,7 +221,7 @@ chunk([1, 2, 3, 4], 0);
 | [isNumber](https://lodash.com/docs/4.17.15#isNumber)                   | ❌       |
 | [isObject](https://lodash.com/docs/4.17.15#isObject)                   | ❌       |
 | [isObjectLike](https://lodash.com/docs/4.17.15#isObjectLike)           | ❌       |
-| [isPlainObject](https://lodash.com/docs/4.17.15#isPlainObject)         | ❌       |
+| [isPlainObject](https://lodash.com/docs/4.17.15#isPlainObject)         | ✅       |
 | [isRegExp](https://lodash.com/docs/4.17.15#isRegExp)                   | ❌       |
 | [isSafeInteger](https://lodash.com/docs/4.17.15#isSafeInteger)         | ❌       |
 | [isSet](https://lodash.com/docs/4.17.15#isSet)                         | ❌       |
