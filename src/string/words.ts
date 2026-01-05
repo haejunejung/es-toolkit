@@ -15,7 +15,7 @@
  * const matches = 'camelCaseHTTPRequest🚀'.match(CASE_SPLIT_PATTERN);
  * // matches: ['camel', 'Case', 'HTTP', 'Request', '🚀']
  */
-export const CASE_SPLIT_PATTERN =
+const CASE_SPLIT_PATTERN =
   /\p{Lu}?\p{Ll}+|[0-9]+|\p{Lu}+(?!\p{Ll})|\p{Emoji_Presentation}|\p{Extended_Pictographic}|\p{L}+/gu;
 
 /**

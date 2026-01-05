@@ -338,7 +338,7 @@ function isArrayMatch(
   return true;
 }
 
-export function isSetMatch(
+function isSetMatch(
   target: unknown,
   source: Set<any>,
   compare: (
